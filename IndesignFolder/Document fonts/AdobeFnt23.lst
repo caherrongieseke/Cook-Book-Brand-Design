@@ -1,0 +1,155 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aclonica-Regular
+FamilyName:Aclonica
+StyleName:Regular
+MenuName:Aclonica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Aclonica
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/MY WEBSITE/CookbookIndesignFolder/Document fonts/Aclonica.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68784
+FileModTime:412588954
+NameArray:0,Mac,18,Aclonica
+NameArray:0,Mac,4,Aclonica
+NameArray:0,Win,1,Aclonica
+NameArray:0,Win,16,Aclonica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/nomuggles/Desktop/MY WEBSITE/CookbookIndesignFolder/Document fonts/AdobeFnt23.lst
+FileLength:3263
+FileModTime:679257996
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chalkduster
+FamilyName:Chalkduster
+StyleName:Regular
+MenuName:Chalkduster
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Chalkduster
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/MY WEBSITE/CookbookIndesignFolder/Document fonts/Chalkduster.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486860
+FileModTime:679257995
+NameArray:0,Mac,18,Chalkduster
+NameArray:0,Mac,4,Chalkduster
+NameArray:0,Win,1,Chalkduster
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/MY WEBSITE/CookbookIndesignFolder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:676571370
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChalkboardSE-Bold
+FamilyName:Chalkboard SE
+StyleName:Bold
+MenuName:Chalkboard SE
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Chalkboard SE Bold
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/MY WEBSITE/CookbookIndesignFolder/Document fonts/ChalkboardSE.ttc
+TTCOffset:796
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:536756
+FileModTime:679257995
+NameArray:0,Mac,4,Chalkboard SE Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChalkboardSE-Light
+FamilyName:Chalkboard SE
+StyleName:Light
+MenuName:Chalkboard SE
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Chalkboard SE Light
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/MY WEBSITE/CookbookIndesignFolder/Document fonts/ChalkboardSE.ttc
+TTCOffset:36
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:536756
+FileModTime:679257995
+NameArray:0,Mac,4,Chalkboard SE Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChalkboardSE-Regular
+FamilyName:Chalkboard SE
+StyleName:Regular
+MenuName:Chalkboard SE
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Chalkboard SE Regular
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/MY WEBSITE/CookbookIndesignFolder/Document fonts/ChalkboardSE.ttc
+TTCOffset:416
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:536756
+FileModTime:679257995
+NameArray:0,Mac,4,Chalkboard SE Regular
+%EndFont
+
